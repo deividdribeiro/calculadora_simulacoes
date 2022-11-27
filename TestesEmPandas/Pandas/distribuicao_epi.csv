@@ -1,0 +1,1232 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 7]> <html lang="pt_BR" class="ie ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="pt_BR" class="ie ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"> <!--<![endif]-->
+  <head>
+    <!--[if lte ie 8]><script type="text/javascript" src="/fanstatic/vendor/:version:2022-08-19T17:37:20/html5.min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2022-08-19T17:37:20/select2/select2.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/css/:version:2022-08-19T17:37:19/main.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2022-08-19T17:37:20/font-awesome/css/font-awesome.min.css" />
+<!--[if ie 7]><link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2022-08-19T17:37:20/font-awesome/css/font-awesome-ie7.min.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/ckanext-harvest/:version:2022-08-19T17:40:09/styles/harvest.css" />
+
+    
+        <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.6.8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" value="O Portal Brasileiro de Dados Abertos (dados.gov.br) é o sítio eletrônico de referência para a busca e o acesso aos dados públicos, seus metadados, informações, aplicativos e serviços relacionados." />
+      
+    <title>Distribuição de Equipamentos de Proteção Individual e Insumos– Covid- 19 - Conjuntos de dados - Portal Brasileiro de Dados Abertos</title>
+
+    
+    <link rel="shortcut icon" href="/img/dadosgovbr.ico" />
+    
+  
+        
+      
+    
+
+        <!-- CSS Basic UI - Governo Brasileiro -->
+        <link rel="stylesheet" href="/css/application.css" />
+
+        <!-- CSS Bootstrap 3 - Grid and Responsive -->
+        <link rel="stylesheet" href="/css/bootstrap3-grid.min.css" />
+        <link rel="stylesheet" href="/css/bootstrap3-responsive.min.css" />
+
+        <!-- JS jQuery 3 -->
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+        
+          <!-- Semantic UI -->
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css" />
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
+        
+
+        <!-- CSS Main CSS - dados.gov.br -->
+        <link rel="stylesheet" href="/css/extra.min.css" />
+
+        <!-- CSS Font Awesome -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/img/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/img/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+      
+  
+
+
+    
+      
+      
+    
+  
+  <meta property="og:title" content="Distribuição de Equipamentos de Proteção Individual e Insumos– Covid- 19 - Portal Brasileiro de Dados Abertos">
+  <meta property="og:description" content="Esta base de dados possui informações sobre os equipamentos de proteção individual (EPI) e insumos de saúde distribuídos em razão do combate à emergência de saúde pública de importância...">
+
+    
+  </head>
+
+  
+  <body data-site-root="https://dados.gov.br/" data-locale-root="https://dados.gov.br/" >
+
+    
+    <div class="hide"><a href="#content">Pular para o conteúdo</a></div>
+  
+
+  
+    
+<div id="barra-brasil">
+    <a href="http://brasil.gov.br" style="background:#7F7F7F; height: 20px; padding:4px 0 4px 10px; display: block; font-family:sans,sans-serif; text-decoration:none; color:white; ">Portal do
+Governo Brasileiro</a>
+</div>
+
+  
+
+<header class="masthead">
+  
+    
+  
+  <div class="container">
+    
+    <ul id="accessibility">
+      <li>
+        <a id="link-conteudo" href="#content" accesskey="1">
+          Ir para o conteúdo
+          <span>1</span>
+        </a>
+      </li>
+      <li>
+        <a id="link-navegacao" href="#menu-horizontal" accesskey="2">
+          Ir para o menu
+          <span>2</span>
+        </a>
+      </li>
+      <li>
+        <a id="link-buscar" href="#search" accesskey="3">
+          Ir para a busca
+          <span>3</span>
+        </a>
+      </li>
+      <li>
+        <a id="link-rodape" href="#footer" onclick="window.scrollTo(0,document.body.scrollHeight)" accesskey="4">
+          Ir para o rodapé
+          <span>4</span>
+        </a>
+      </li>
+    </ul>
+    
+    
+    <hgroup id="site_logo" class="header-text-logo-tagline">
+
+      
+          <h1>
+            <a href="/" title="Portal Brasileiro de Dados Abertos"><span id="portal-title">dados.gov.br</span></a>
+          </h1>
+          <h2><span id="portal-description">Portal Brasileiro de Dados Abertos</span></h2>
+      
+
+    </hgroup>
+
+
+      
+
+
+
+
+  <form action="/dataset" class="search-form " method="get" data-module="select-switch">
+    
+      <div class="search-input control-group ">
+        <input type="text" class="search" name="q" value="" autocomplete="off" placeholder="Pesquisar conjuntos de dados...">
+        
+        <button type="submit" value="search">
+          <i class="icon-search"></i>
+          <span>Enviar</span>
+        </button>
+        
+      </div>
+    
+
+    
+      
+    
+  </form>
+
+    
+    <!--ul id="news">
+      <<li id="feed"><a rel="feed" href="/wp/feed/" title="Inscrever-se no feed de notícias">feed</a></li>
+      <li id="twitter"><a href="http://twitter.com/dadosgovbr" title="Microblog no Twitter">twitter</a></li>
+      <li id="github"><a href="https://github.com/dadosgovbr" title="Códigos fonte de projetos do dados.gov.br no Github">Códigos fonte de projetos do dados.gov.br no Github</a></li>
+     </ul-->
+     <a id="news" style="padding-left: 5em;" href="/user/login">Login</a>
+    
+
+    <div class="content hidden">
+
+      
+        <form class="section site-search simple-input" action="/dataset" method="get">
+          <div class="field">
+            <label for="field-sitewide-search">Buscar conjunto de dados</label>
+            <input id="field-sitewide-search" type="text" name="q" placeholder="Pesquisar conjuntos de dados..." />
+            <button class="btn-search" type="submit"><i class="icon-search"></i></button>
+          </div>
+        </form>
+      
+
+    </div>
+    </div>
+    <div id="barra-menu">
+    </div>
+      
+        <nav id="menu-horizontal" class="section navigation">
+          <ul class="barra-apoio">
+           
+                        <li class="first link-dados"><a href="/dataset/">Dados</a></li>
+                        <li class="link-organizacoes"><a href="/organization/">Organizações</a></li>
+                        <li class="link-aplicativos"><a href="/group">Temas</a></li>
+                        <li class="link-aplicativos"><a href="/aplicativos/">Aplicativos</a></li>
+                        <li class="link-inventarios"><a href="/pagina/manuais-e-orientacoes/">Manuais e orientações</a></li>
+                <li class="link-wiki"><a href="http://wiki-dados.cgu.gov.br/">Política de Dados Abertos</a></li>
+                <li class="link-perguntas-frequentes"><a href="/pagina/faq/">Perguntas frequentes</a></li>
+                <li class="link-statistics"><a href="/statistics/reports/statistics.html">Estatísticas</a></li>
+                <li class="link-contato"><a href="/pagina/contato/">Contato</a></li>
+                <!-- <li class="link-sobre"><a href="/user/login">Login</a></li> -->
+          </ul>
+        </nav>
+      
+</header>
+
+  
+    <div role="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="/"><i class="icon-home"></i><span> Início</span></a></li>
+                    
+  
+    
+    
+      
+      <li><a href="/organization">Organizações</a></li>
+      <li><a href="/organization/ministerio-da-saude-ms">Ministério da Saúde - MS</a></li>
+    
+    <li class="active"><a class=" active" href="/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19">Distribuição de ...</a></li>
+  
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+
+            
+            
+            
+
+            
+              <div class="primary span9">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  <li class="active"><a href="/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19"><i class="icon-sitemap"></i> Conjunto de dados</a></li>
+  <li><a href="/dataset/groups/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19"><i class="icon-group"></i> Temas</a></li>
+  <li><a href="/dataset/activity/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19"><i class="icon-time"></i> Fluxo de Atividades</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+    
+    
+      
+    
+
+    
+      
+      <h1>
+        
+          Distribuição de Equipamentos de Proteção Individual e Insumos– Covid- 19
+          
+          
+        
+      </h1>
+      
+        
+          <hr>
+          <div class="notes embedded-content">
+            <p>Esta base de dados possui informações sobre os equipamentos de proteção individual (EPI) e insumos de saúde distribuídos em razão do combate à emergência de saúde pública de importância internacional decorrente da Covid-19.</p>
+<h2>Dicionário de dados:</h2>
+<p><strong>Material:</strong> bem entregue;</p>
+<p><strong>Dt.Saída:</strong> data de saída para entrega;</p>
+<p><strong>Nº Pedido:</strong> número do pedido;</p>
+<p><strong>Requisitante / Destino:</strong> Estado de destino;</p>
+<p><strong>Unidade:</strong> unidade de medida;</p>
+<p><strong>Quantidade:</strong> quantidade entregue;</p>
+<p><strong>Status:</strong> status da entrega.</p>
+<h2>Licenciamento:</h2>
+<p>Os dados disponibilizados pelo Poder Executivo Federal em formato aberto são de livre utilização e reúso, observados os termos constantes do inc. IV do art 3º e do art. 4 do Decreto nº 8777/16.</p>
+          </div>
+        
+      
+      
+      <span class="insert-comment-thread"></span>
+    
+
+    
+    <br>
+    
+  <section class="tags">
+    
+
+
+  <ul class="tag-list well">
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Avental">Avental</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Covid-19">Covid-19</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Distribui%C3%A7%C3%A3o">Distribuição</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=EPI">EPI</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Insumos">Insumos</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Log%C3%ADstica">Logística</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Luvas">Luvas</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=M%C3%A1scaras">Máscaras</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=Teste+R%C3%A1pido">Teste Rápido</a>
+      </li>
+    
+      <li>
+        <a class="tag" href="/dataset?tags=%C3%81lcool">Álcool</a>
+      </li>
+    
+  </ul>
+
+  </section>
+
+    <script>
+        // Set new URL for tags based on package type
+        (function() {
+        $('.tags .tag').each(function(){
+            var new_url = $(this).attr('href').replace('/dataset?', '/dataset?');
+            $(this).attr('href', new_url);
+            //console.log(new_url);
+        });
+        })();
+    </script>
+
+
+    
+      
+        
+          <span id="package_id" class="hidden">0bbe5363-cbfb-433c-8794-0f631576618e</span>
+          <span id="package_name" class="hidden">distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19</span>
+          <span id="package_siorg" class="hidden">304</span>
+          <script src="https://www.google.com/recaptcha/api.js?render=6LdisuIcAAAAAHflCyjkQW1TOaTKEBTMMEAjM2TW"></script>
+
+
+
+<div id="feedback-eouv" class="ui blurring segment">
+  <!-- Botões principais -->
+  <div class="ui basic center" style="text-align:center;">
+    <h4 class="ui header msg-title">Estes dados estão disponíveis como o esperado?</h4>
+
+    <div class="ui labeled buttons">
+      <button class="ui labeled button sim" tabindex="0">
+        <a class="ui basic green right pointing label" id="ouv_like_counter" style="min-height: 36px; border-radius: 5px 0 0 5px;">
+          3
+        </a>
+        <div class="ui green button">
+          <i class="thumbs up chevron icon"></i> Sim
+        </div>
+      </button>
+      <div class="or" data-text="ou"></div>
+      <button class="ui labeled button nao" tabindex="0">
+        <div class="ui orange button" style="border-radius: 0;">
+          <i class="thumbs down chevron icon"></i> Não
+        </div>
+        <a class="ui basic orange left pointing label" id="ouv_dislike_counter" style="min-height: 36px; border-radius: 0 5px 5px 0;">
+          5
+        </a>
+      </button>
+    </div>
+<!--<h5 class="ui header left" style="margin-top:5px">
+<a href="https://falabr.cgu.gov.br/Login/Identificacao.aspx?idFormulario=1&amp;tipo=2&amp;ReturnUrl=%2fpublico%2fManifestacao%2fRegistrarManifestacao.aspx%3fidFormulario%3d1%26tipo%3d2%26origem%3didp%26modo%3d" style="color:orange">Clique aqui</a> para preencher o formulário de reclamação
+</h5>-->
+  </div>
+
+  <!-- Formulário / Ouvidoria -->
+  <div class="dimmable form-problems" style="display:none;">
+    <hr>
+    <h4 class="ui header msg-error" style="display:none;" align="justify">Desculpe-nos. Verifique se a solução para o seu problema está na relação de <a href="/pagina/faq-dataset" style="color:#769F29;">perguntas frequentes</a>. Diga-nos o motivo para que possamos buscar uma solução.</h4>
+
+    <div style="padding: 10px; position: relative;">
+        <form class="ui reply form" id="form_eouv">
+          <div class="checkbox-group required">
+            <div class="ui inline checkbox">
+              <input type="checkbox" name="eouv-motivo-1" tabindex="1">
+              <label style="z-index: 4;" name="eouv-motivo-1">Os dados estão desatualizados.</label>
+            </div>
+
+            <div class="ui inline checkbox">
+              <input type="checkbox" name="eouv-motivo-2" tabindex="2">
+              <label style="z-index: 4;" name="eouv-motivo-2">Não consegui acessar o conjunto de dados (indique os arquivos com problema na descrição da manifestação).</label>
+            </div>
+
+            <div class="ui inline checkbox">
+              <input type="checkbox" name="eouv-motivo-3" tabindex="3">
+              <label style="z-index: 4;" name="eouv-motivo-3">Documentação insuficiente para compreender o conjunto de dados.</label>
+            </div>
+
+            <div class="ui inline checkbox">
+              <input type="checkbox" name="eouv-motivo-4" tabindex="4">
+              <label style="z-index: 4;" name="eouv-motivo-4">Os dados contêm erro ou inconsistência.</label>
+            </div>
+
+            <div class="ui attached field" style="padding-top: 12px;">
+              <label for="eouv-text">Descreva a situação encontrada</label>
+              <textarea name="eouv-text" id="situacao_encontrada" tabindex="5" style="margin-bottom: 16px;"></textarea>
+            </div>
+          </div>
+
+          <!-- Campos opcionais -->
+          <div class="botao_campos_opcionais">
+            <div class="ui segment">
+              <div class="field">
+                <div class="ui checkbox mostrar_campos_opcionais">
+                  <input type="checkbox" name="ser_identificado" tabindex="6">
+                  <label style="z-index: 4;" for="ser_identificado" align="justify">Sua avaliação será enviada para o sistema de Ouvidoria Fala.BR como uma reclamação. Clique aqui caso
+queira acompanhar seu andamento.</label>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="campos_opcionais" style="display:none;">
+            <hr>
+
+            <div class="field">
+              <label>Nome</label>
+              <input type="text" name="eouv-name" placeholder="" tabindex="7">
+            </div>
+            <div class="field">
+              <label>Email</label>
+              <input type="email" name="eouv-email" placeholder="" tabindex="8">
+            </div>
+            <!--<div class="field">
+              <div class="ui checkbox">
+                <input type="checkbox" class="hidden" name="eouv-receber-email" tabindex="0">
+                <label>Desejo receber email para acompanhar o relato.</label>
+              </div>
+            </div>-->
+          </div>
+
+          <hr>
+          <div id="submit">
+          <button type="submit" class="ui button enviar" tabindex="9">Enviar manifestação para ouvidoria</button>
+          <button class="ui loading button carregando" style="display:none">Carregando</button>
+          </div>
+          <div id="submit_block" data-tooltip="Por favor, selecione pelo menos um dos motivos e/ou descreva a situação encontrada" data-position="bottom left">
+            <button class="ui disabled button">Enviar manifestação para ouvidoria</button>
+          </div>
+        </form>
+    </div>
+  </div>
+
+  <!-- Mensagem / Enviado com sucesso -->
+  <div class="ui inverted dimmer transition">
+    <div class="content">
+      <div class="center">
+        <h2 class="ui icon header">
+          <i class="checkmark icon" style="display:none;"></i>
+          <span class="msg">Obrigado!</span>
+        </h2>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+$(document).ready(function(){
+  var eouv = $("#feedback-eouv");
+
+
+  // function Rebuild tabindex
+  // ==============================================
+  function rebuildTabindex () {
+    var tabindex = 1;
+    $('input,select').each(function() {
+        if (this.type != "hidden") {
+            var $input = $(this);
+            $input.attr("tabindex", tabindex);
+            tabindex++;
+        }
+    });
+  }
+
+  // function verifica se pelo menos um checkbox foi selecionado e/ou situacao encontrada foi preenchida
+  // caso esteja prenchida, o botão enviar manifestação é ativado. Caso contrario é exibido o botão desativado.
+  // ==============================================
+  function verifica_campos_nulos () {
+    var info_adicionais = form_eouv.situacao_encontrada.value;
+    if(($('div.checkbox-group.required :checkbox:checked').length > 0)||(info_adicionais != "")){
+      $("#submit_block").hide();
+      $("#submit").show();
+    }else{
+      $("#submit").hide();
+      $("#submit_block").show();
+    }
+  }
+  $('div.checkbox-group.required').get()[0].addEventListener('change', verifica_campos_nulos);
+  document.getElementById('situacao_encontrada').addEventListener("keyup", verifica_campos_nulos);
+  $('div.checkbox-group.required').click(function() {
+    setTimeout(verifica_campos_nulos, 80);
+  });
+
+  // function Mostrar campos opcionais
+  // ==============================================
+  function campos_opcionais_atualizar () {
+    if($('.mostrar_campos_opcionais input').is(":checked"))
+      $('.campos_opcionais').show();
+    else
+      $('.campos_opcionais').hide();
+  }
+  $('.mostrar_campos_opcionais input').get()[0].addEventListener('change', campos_opcionais_atualizar);
+  $('.mostrar_campos_opcionais').click(function() {
+    setTimeout(campos_opcionais_atualizar, 80);
+  });
+
+
+  // ==============================================
+  // Se avaliar como "Sim"
+  // ==============================================
+  eouv.find(".sim").on("click", function(){
+    eouv.find(".msg").html("Obrigado!<br>Sua avaliação foi contabilizada.");
+    eouv.find('.dimmer').addClass('active');
+
+
+    var data_eouv = {
+      package_id: $('#package_id').html(),
+      package_name: $('#package_name').html()
+    }
+
+    // Impelmenting Google Recaptcha 
+    grecaptcha.ready(function() {
+      grecaptcha.execute('6LdisuIcAAAAAHflCyjkQW1TOaTKEBTMMEAjM2TW', {action: 'submit'}).then(function(token) {
+
+        // console.log('Google Recaptcha Token: ' + token)
+        data_eouv.google_recaptcha_token = token
+
+        // Envia requisição
+        $.ajax({ url      : "/eouv/new_positive",
+             type     : 'POST',
+             data     : data_eouv,
+             dataType : 'xml'
+          })
+
+        // Sucesso na requisição
+        .done(function( data ) {
+          // console.log(data);
+        });
+      });
+    });
+  });
+
+
+  // ==============================================
+  // Se avaliar como "Não"
+  // ==============================================
+  eouv.find(".nao").on("click", function(){
+    eouv.find(".form-problems").show();
+    eouv.find(".sim").removeClass("sim").addClass("disabled");
+    eouv.addClass("red").removeClass("green");
+    eouv.find(".msg-title").html('');
+    eouv.find(".msg-error").show();
+    $("#submit").hide();
+  });
+
+  // Enviar problema para ouvidoria
+  eouv.find('form').submit(function(event) {
+    event.preventDefault();
+    eouv.find('.enviar').hide();
+    eouv.find('.carregando').show();
+
+
+    // Msg Sucesso
+    // ==============================================
+    function msg_sucesso () {
+        eouv.find("i.checkmark").show(); // Exibe ícone
+        eouv.removeClass("red"); // Remove top border
+        eouv.find(".msg").html("Sua manifestação foi enviada para a Plataforma Integrada de Ouvidoria e Acesso à Informação <br>Fala.BR<br>Protocolo: <span class='protocolo'></span>");
+        eouv.find('.dimmer').addClass('active');
+    }
+
+    // Msg Erro
+    // ==============================================
+    function msg_erro () {
+        eouv.find("i.checkmark").show().removeClass('checkmark').addClass('warning sign red'); // Exibe ícone
+        eouv.removeClass("red"); // Remove top border
+        eouv.find(".msg").html("Erro ao enviar sua mensagem para a ouvidoria.<br>Por favor, tente mais tarde.");
+        eouv.find('.dimmer').addClass('active');
+    }
+
+    // ==============================================
+    // Conteúdo a ser enviado para o server
+    // ==============================================
+    var data_eouv_text = "";
+    $('input[name^=eouv-motivo-]').each(function() {
+      if ($(this).is(":checked")) {
+        data_eouv_text += "- "+$(this).parent().find('label').html();
+        data_eouv_text += "\n";
+      }
+    });
+    if(data_eouv_text.length > 0){
+      data_eouv_text = 'Opções marcadas:\n'+data_eouv_text
+    }
+    if($('textarea[name=eouv-text]').val().length > 0){
+      data_eouv_text += "\nDescrição da manifestação:\n"+$('textarea[name=eouv-text]').val();
+    }
+
+    $('input[name^=eouv-name]')
+    $('input[name^=eouv-email]')
+    $('input[name^=eouv-receber-email]')
+
+    var data_eouv = {
+      package_id: $('#package_id').html(),
+      package_name: $('#package_name').html(),
+      siorg: $('#package_siorg').html(),
+      text: data_eouv_text,
+      name: $('input[name^=eouv-name]').val(),
+      email: $('input[name^=eouv-email]').val(),
+      receber_email: +$('input[name^=eouv-receber-email]').is(":checked")
+    }
+
+    // Função que converte xml em JSON para tratar o resultado da manifestação
+    xmlToJson = function(xml) {
+      var obj = {};
+      if (xml.nodeType == 1) {
+          if (xml.attributes.length > 0) {
+              obj["@attributes"] = {};
+              for (var j = 0; j < xml.attributes.length; j++) {
+                  var attribute = xml.attributes.item(j);
+                  obj["@attributes"][attribute.nodeName] = attribute.nodeValue;
+              }
+          }
+      } else if (xml.nodeType == 3) {
+          obj = xml.nodeValue;
+      }
+      if (xml.hasChildNodes()) {
+          for (var i = 0; i < xml.childNodes.length; i++) {
+              var item = xml.childNodes.item(i);
+              var nodeName = item.nodeName;
+              if (typeof (obj[nodeName]) == "undefined") {
+                  obj[nodeName] = xmlToJson(item);
+              } else {
+                  if (typeof (obj[nodeName].push) == "undefined") {
+                      var old = obj[nodeName];
+                      obj[nodeName] = [];
+                      obj[nodeName].push(old);
+                  }
+                  obj[nodeName].push(xmlToJson(item));
+              }
+          }
+      }
+      return obj;
+    }
+
+    // DEBUG
+    // console.log(data_eouv);
+
+// Impelmenting Google Recaptcha 
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6LdisuIcAAAAAHflCyjkQW1TOaTKEBTMMEAjM2TW', {action: 'submit'}).then(function(token) {
+
+        // console.log('Google Recaptcha Token: ' + token)
+        data_eouv.google_recaptcha_token = token
+
+    // Envia requisição
+    $.ajax({ url      : "/eouv/new_negative",
+             type     : 'POST',
+             data     : data_eouv,
+             dataType : 'text'
+          })
+
+      // Sucesso na requisição
+      .done(function( data ) {
+        // console.log(data);
+        var xmlDoc = $.parseXML(data);
+
+        dataJson = JSON.stringify(xmlToJson(xmlDoc));
+
+        var objJSON = JSON.parse(dataJson);
+
+        Protocolo = objJSON["s:Envelope"]["s:Body"].RegistrarManifestacaoTerceiroResponse.RegistrarManifestacaoTerceiroResult["a:Protocolo"]["#text"];
+
+        CodigoErro = objJSON["s:Envelope"]["s:Body"].RegistrarManifestacaoTerceiroResponse.RegistrarManifestacaoTerceiroResult["a:CodigoErro"]["#text"]
+
+        // Exibe botão de submit de novo
+        eouv.find('.enviar').show();
+        eouv.find('.carregando').hide();
+
+        // Servidor retornou com sucesso
+        if (CodigoErro == 0) {
+          msg_sucesso();
+          eouv.find(".protocolo").html(Protocolo)
+        }
+
+        // Servidor retornou com erro
+        else {
+          msg_erro();
+        }
+      })
+
+      // Erro na requisição
+      .fail(function( data ) {
+        // Exibe botão de submit de novo
+        eouv.find('.enviar').show();
+        eouv.find('.carregando').hide();
+
+        msg_erro();
+      });
+
+  });
+  });
+  });
+
+
+
+  // ==============================================
+  // Semantic UI - FIX checkbox
+  // ==============================================
+  $('.ui.checkbox').click(function() {
+    var checkbox_field = $(this).find('input');
+    var checked = !checkbox_field.is(":checked");
+    checkbox_field.prop('checked', checked);
+  });
+  $('.ui.checkbox').bind('keypress', function(e) {
+    if (e.which == 32){ // Spacebar press
+      var checkbox_field = $(this).find('input');
+      var checked = !checkbox_field.is(":checked");
+      checkbox_field.prop('checked', checked);
+    }
+  });
+});
+</script>
+        
+      
+    
+    <hr>
+  
+
+    
+      
+<section id="dataset-resources" class="resources">
+  <h3>Dados e recursos</h3>
+  
+    
+      <ul class="resource-list">
+        
+          
+            
+
+
+
+
+<li class="resource-item" data-id="37a4c2ef-2c2e-460f-9d1b-c84edf92b327">
+  
+  <a class="heading" href="/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19/resource/37a4c2ef-2c2e-460f-9d1b-c84edf92b327" title="Distribuição insumos e EPI">
+    Distribuição insumos e EPI<span class="format-label" property="dc:format" data-format="csv">CSV</span>
+    
+
+  </a>
+  
+  
+    <p class="description">
+      
+        Separador: ";"
+Codificação: "UTF-8"
+      
+    </p>
+  
+  
+  
+  <div class="dropdown btn-group">
+    <a href="#" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+      <i class="icon-share-alt"></i>
+      Explorar
+      <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      
+      <li>
+        <a href="/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19/resource/37a4c2ef-2c2e-460f-9d1b-c84edf92b327">
+          
+            <i class="icon-info-sign"></i>
+            Mais informações
+          
+        </a>
+      </li>
+      
+      <li>
+          
+                <a href="https://sage.saude.gov.br/dados/repositorio/distribuicao_epi.csv" class="resource-url-analytics" target="_blank">
+          
+          
+            <i class="icon-external-link"></i>
+            Ir para recurso
+          
+        </a>
+      </li>
+      
+      
+      
+    </ul>
+  </div>
+  
+  
+</li>
+          
+        
+      </ul>
+    
+    
+</section>
+      <hr>
+    
+
+    
+      <section class="additional-info">
+  <h3>Informações Adicionais</h3>
+  <table class="table table-striped table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th scope="col">Campo</th>
+        <th scope="col">Valor</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+        
+
+        
+
+        
+
+        
+
+        
+        
+          <tr>
+            <th scope="row" class="dataset-label">Última Atualização</th>
+            <td class="dataset-details">
+                
+<span class="automatic-local-datetime" data-datetime="2022-01-04T10:53:35-0200">
+    4 de Janeiro de 2022, 10:53 (BRST)
+</span>
+            </td>
+          </tr>
+        
+        
+          <tr>
+            <th scope="row" class="dataset-label">Criado</th>
+
+            <td class="dataset-details">
+                
+<span class="automatic-local-datetime" data-datetime="2020-08-17T19:56:40-0300">
+    17 de Agosto de 2020, 19:56 (BRT)
+</span>
+            </td>
+          </tr>
+        
+
+      
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Contato</th>
+            <td class="dataset-details" property="rdf:value">dadosabertos@saude.gov.br</td>
+          </tr>
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Frequência Atualização</th>
+            <td class="dataset-details" property="rdf:value">Mensal</td>
+          </tr>
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Granularidade</th>
+            <td class="dataset-details" property="rdf:value">entrega</td>
+          </tr>
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Granularidade Geográfica</th>
+            <td class="dataset-details" property="rdf:value">Estado</td>
+          </tr>
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Granularidade Temporal</th>
+            <td class="dataset-details" property="rdf:value">Dia</td>
+          </tr>
+        
+          
+          <tr rel="dc:relation" resource="_:extra">
+            <th scope="row" class="dataset-label" property="rdfs:label">Área Responsável</th>
+            <td class="dataset-details" property="rdf:value">DLOG/SE/MS</td>
+          </tr>
+        
+      
+
+      
+    </tbody>
+  </table>
+</section>
+    
+
+  
+                    </div>
+                  </article>
+                
+              </div>
+            
+
+            
+              <aside class="secondary span3">
+                
+                
+
+  
+
+  
+    
+
+  
+    <section class="module module-narrow">
+      <div class="module context-info">
+        <div class="module-content">
+          
+            
+              <h1 class="heading">Distribuição de Equipamentos de Proteção Individual e Insumos– Covid- 19</h1>
+            
+            
+              <div class="nums">
+                <dl>
+                  <dt>Seguidores</dt>
+                  <dd><span>0</span></dd>
+                </dl>
+              </div>
+            
+            
+              
+                <div class="follow_button">
+                  
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </section>
+  
+
+  
+
+  
+    
+      
+      
+    
+    
+    
+    
+      
+      <div class="module module-narrow module-shallow context-info">
+        
+          <h2 class="module-heading"><i class="fa fa-building-o"></i> Organização</h2>
+        
+        <section class="module-content">
+          
+          
+            <div class="image">
+              <a href="/organization/ministerio-da-saude-ms">
+                <img src="https://dados.gov.br/wp/wp-content/uploads/2018/06/logo-sus.gif" width="200" alt="ministerio-da-saude-ms" />
+              </a>
+            </div>
+          
+          
+          <h1 class="heading">Ministério da Saúde - MS
+            
+          </h1>
+          
+          
+          
+            <p>
+              O Ministério da Saúde é o órgão do Poder Executivo Federal responsável pela organização e elaboração de planos e políticas públicas voltados para a promoção, prevenção e...
+              <a href="/organization/about/ministerio-da-saude-ms">Leia mais</a>
+            </p>
+          
+          
+          
+          
+        </section>
+      </div>
+      
+    
+  
+
+  
+    
+
+  <section class="module module-narrow social">
+    
+      <h2 class="module-heading"><i class="icon-medium icon-share"></i> Social</h2>
+    
+    
+      <ul class="nav nav-simple">
+        <li class="nav-item"><a href="https://plus.google.com/share?url=https://dados.gov.br/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19" target="_blank"><i class="icon-google-plus-sign"></i> Google+</a></li>
+        <li class="nav-item"><a href="https://twitter.com/share?url=https://dados.gov.br/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/sharer.php?u=https://dados.gov.br/dataset/distribuicao-de-equipamentos-de-protecao-individual-e-insumos-covid-19" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></li>
+      </ul>
+    
+  </section>
+
+  
+
+  
+    
+
+
+  
+    
+      
+        <section class="module module-narrow module-shallow license">
+          
+            <h2 class="module-heading"><i class="icon-medium icon-lock"></i> Licença</h2>
+          
+          
+            <p class="module-content">
+              
+                
+  
+    <span property="dc:rights">Other (Open)</span>
+  
+
+                
+                  <a href="http://opendefinition.org/okd/" title="Este conjunto de dados satisfaz a Definição de Aberto - Open Definition.">
+                      <img class="open-data" src="/base/images/od_80x15_blue.png" alt="[Open Data]" />
+                  </a>
+                
+              
+            </p>
+          
+        </section>
+      
+    
+  
+
+  
+
+
+              </aside>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    
+
+<div class="container">
+  
+  <div class="footer outer">
+    <div class="footer inner bs3">
+      <footer>
+        <!-- Navegação do Rodapé -->
+        <div class="row">
+          <div class="col-md-4" id="portal">
+            <h3> O Portal </h3>
+            <ul>
+              <li>
+                <a href="/dataset/"> Cat&aacute;logo de Dados </a>
+              </li>
+              <li>
+                <a href="/organization/"> Organizações </a>
+              </li>
+              <li>
+                <a href="/aplicativos/"> Aplicativos </a>
+              </li>
+              <li>
+                <a href="/pagina/manuais-e-orientacoes/"> Manuais e orientações </a>
+              </li>
+              <li>
+                <a href="/pagina/faq/"> Perguntas frequentes </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-4" id="about">
+            <h3> Saiba mais </h3>
+            <ul>
+              <li>
+                <a target="_blank" href="/pagina/dados-abertos"> O que são dados abertos? </a>
+              </li>
+              <li>
+                <a target="_blank" href="http://wiki-dados.cgu.gov.br/"> Política de Dados Abertos  </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.gov.br/acessoainformacao/pt-br"> Lei de acesso a informação </a>
+              </li>
+              <li>
+                <a href="https://formularios.cgu.gov.br/index.php/survey/index/sid/361217/newtest/Y/lang/pt-BR"> Formulário eletrônico para publicação de Planos de Dados Abertos </a>
+              </li>
+              <li>
+                <a target="_blank" href="http://paineis.cgu.gov.br/dadosabertos/index.htm"> Painel de Monitoramento de Dados Abertos </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.gov.br/cgu/pt-br/governo-aberto"> Parceria para Governo Aberto </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 visible-sm" style="text-align: center">
+            <hr class="divisor">
+          </div>
+          <div class="col-md-4" id="manuais">
+            <h3> Contato </h3>
+             <ul>
+              <li>
+                <a href="/pagina/contato"> Entre em contato </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://falabr.cgu.gov.br/"> Faça um pedido de informação ou manifestação de ouvidoria  </a>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+        <!-- FIM Navegação do Rodapé -->
+
+            <div class="attribution">
+              
+              <p><strong>Impulsionado por</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+              
+            </div>
+          </div><!-- /.col-xs-6 -->
+
+
+          <div class="col-xs-6">
+            <div>
+              <a href="http://www.brasil.gov.br/" id="logo-brasil">
+                <!-- <img src="/img/brasil2.png" alt="Brasil - Governo Federal"/> -->
+              </a>
+            </div>
+          </div><!-- /.col-xs-6 -->
+
+        </div><!-- /.row -->
+
+      </footer>
+    </div>
+  </div>
+  
+</div>
+
+    
+    
+    
+</div>
+
+
+
+  <script src="https://barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1665737-34"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1665737-34');
+</script>
+
+  
+    
+    
+    
+  
+
+      
+      
+
+      
+
+      
+  <script>document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2022-08-19T17:37:20/jquery.min.js"></script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2022-08-19T17:37:20/:bundle:bootstrap/js/bootstrap.min.js;jed.min.js;moment-with-locales.js;select2/select2.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2022-08-19T17:37:20/:bundle:plugins/jquery.inherit.min.js;plugins/jquery.proxy-all.min.js;plugins/jquery.url-helpers.min.js;plugins/jquery.date-helpers.min.js;plugins/jquery.slug.min.js;plugins/jquery.slug-preview.min.js;plugins/jquery.truncator.min.js;plugins/jquery.masonry.min.js;plugins/jquery.form-warning.min.js;sandbox.min.js;module.min.js;pubsub.min.js;client.min.js;notify.min.js;i18n.min.js;main.min.js;modules/select-switch.min.js;modules/slug-preview.min.js;modules/basic-form.min.js;modules/confirm-action.min.js;modules/api-info.min.js;modules/autocomplete.min.js;modules/custom-fields.min.js;modules/data-viewer.min.js;modules/table-selectable-rows.min.js;modules/resource-form.min.js;modules/resource-upload-field.min.js;modules/resource-reorder.min.js;modules/resource-view-reorder.min.js;modules/follow.min.js;modules/activity-stream.min.js;modules/dashboard.min.js;modules/resource-view-embed.min.js;view-filters.min.js;modules/resource-view-filters-form.min.js;modules/resource-view-filters.min.js;modules/table-toggle-more.min.js;modules/dataset-visibility.min.js;modules/media-grid.min.js;modules/image-upload.min.js"></script></body>
+</html>
