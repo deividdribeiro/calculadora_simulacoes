@@ -56,10 +56,10 @@ tarifa_aplicacao_bc_enel_go_valor = tarifa_cheia_enel_go_valor
 tarifa_compensavel_bc_enel_go_valor = tarifa_aplicacao_bc_enel_go_valor
 tarifa_compensavel_enel_go_valor = tarifa_sem_impostos_enel_go
 
-print(tarifa_aplicacao_enel_go_valor)
+# print(tarifa_aplicacao_enel_go_valor)
 print(tarifa_aplicacao_bc_enel_go_valor)
-print(tarifa_compensavel_bc_enel_go_valor)
-print(tarifa_compensavel_enel_go_valor)
+# print(tarifa_compensavel_bc_enel_go_valor)
+# print(tarifa_compensavel_enel_go_valor)
 
 
 # desconto_cogecom_rge_valor = tarifa_compensavel_rge_valor * cogecom_rge
