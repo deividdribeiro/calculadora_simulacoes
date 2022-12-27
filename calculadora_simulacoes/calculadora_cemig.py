@@ -9,6 +9,7 @@ import numpy as np
 
 ''' Distribuidoras: '''
 edp_cemig = 0.15
+edp_claro_cemig = 0.10
 solatio_cemig = 0.15
 solatio_claro_cemig = 0.10
 cogecom_claro_cemig = 0.1
@@ -68,10 +69,10 @@ tarifa_solatio_claro_cemig_valor = tarifa_compensavel_cemig_valor - desconto_sol
 # tabela_cogecom_cemig = pd.DataFrame(tabela_cogecom_cemig)
 # print(tabela_cogecom_cemig)
 #
-# tabela_cogecom_claro_cemig = {'Itens': ['Tarifa Sem Impostos', 'Tarifa Cheia', 'Tarifa Aplicação', 'Tarifa Compensavel', 'Desconto Claro', 'Tarifa Cogecom Claro'], 'Valores R$':[tarifa_sem_impostos_cemig, tarifa_cheia_cemig_valor, tarifa_aplicacao_cemig_valor, tarifa_compensavel_cemig_valor, desconto_cogecom_claro_cemig_valor, tarifa_cogecom_claro_cemig_valor]}
-# pd.options.display.float_format = '{:,.4f}'.format
-# tabela_cogecom_claro_cemig = pd.DataFrame(tabela_cogecom_claro_cemig)
-# print(tabela_cogecom_claro_cemig)
+tabela_cogecom_claro_cemig = {'Itens': ['Tarifa Sem Impostos', 'Tarifa Cheia', 'Tarifa Aplicação', 'Tarifa Compensavel', 'Desconto Claro', 'Tarifa Cogecom Claro'], 'Valores R$':[tarifa_sem_impostos_cemig, tarifa_cheia_cemig_valor, tarifa_aplicacao_cemig_valor, tarifa_compensavel_cemig_valor, desconto_cogecom_claro_cemig_valor, tarifa_cogecom_claro_cemig_valor]}
+pd.options.display.float_format = '{:,.4f}'.format
+tabela_cogecom_claro_cemig = pd.DataFrame(tabela_cogecom_claro_cemig)
+print(tabela_cogecom_claro_cemig)
 #
 # tabela_edp_cemig = {'Itens': ['Tarifa Sem Impostos', 'Tarifa Cheia', 'Tarifa Aplicação', 'Tarifa Compensavel', 'Desconto', 'Tarifa EDP'], 'Valores R$':[tarifa_sem_impostos_cemig, tarifa_cheia_cemig_valor, tarifa_aplicacao_cemig_valor, tarifa_compensavel_cemig_valor, desconto_edp_cemig_valor, tarifa_edp_cemig_valor]}
 # pd.options.display.float_format = '{:,.4f}'.format
@@ -83,7 +84,7 @@ tarifa_solatio_claro_cemig_valor = tarifa_compensavel_cemig_valor - desconto_sol
 # tabela_solatio_cemig = pd.DataFrame(tabela_solatio_cemig)
 # print(tabela_solatio_cemig)
 #
-# tabela_solatio_claro_cemig = {'Itens': ['Tarifa Sem Impostos', 'Tarifa Cheia', 'Tarifa Aplicação', 'Tarifa Compensavel', 'Desconto Claro', 'Tarifa Solatio Claro'], 'Valores R$':[tarifa_sem_impostos_cemig, tarifa_cheia_cemig_valor, tarifa_aplicacao_cemig_valor, tarifa_compensavel_cemig_valor, desconto_solatio_claro_cemig_valor, tarifa_solatio_claro_cemig_valor]}
-# pd.options.display.float_format = '{:,.4f}'.format
-# tabela_solatio_claro_cemig = pd.DataFrame(tabela_solatio_claro_cemig)
-# print(tabela_solatio_claro_cemig)
+tabela_solatio_claro_cemig = {'Itens': ['Tarifa Sem Impostos', 'Tarifa Cheia', 'Tarifa Aplicação', 'Tarifa Compensavel', 'Desconto Claro', 'Tarifa Solatio Claro'], 'Valores R$':[tarifa_sem_impostos_cemig, tarifa_cheia_cemig_valor, tarifa_aplicacao_cemig_valor, tarifa_compensavel_cemig_valor, desconto_solatio_claro_cemig_valor, tarifa_solatio_claro_cemig_valor]}
+pd.options.display.float_format = '{:,.4f}'.format
+tabela_solatio_claro_cemig = pd.DataFrame(tabela_solatio_claro_cemig)
+print(tabela_solatio_claro_cemig)
